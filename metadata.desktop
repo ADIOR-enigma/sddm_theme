@@ -1,0 +1,15 @@
+; https://github.com/uiriansan/SilentSDDM
+
+[SddmGreeterTheme]
+Name=Silent
+Type=sddm-theme
+Description=SDDM theme
+License=GPL-3.0-or-later
+Version=1.4.0
+Theme-Id=silent
+Theme-API=2.0
+MainScript=Main.qml
+Screenshot=docs/previews/default.png
+TranslationsDirectory=translations
+QtVersion=6
+ConfigFile=configs/default.conf
